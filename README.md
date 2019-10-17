@@ -1,4 +1,4 @@
-# stabilizer-watermelon
+# watchdog
 Projeto Final da Disciplina de Microprocessados
 Integrantes
   Lucas Lima de Sousa
