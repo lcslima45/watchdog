@@ -14,6 +14,8 @@
 * STM32F030F4 Cortex M0 Microcontroller.
 * Display SPI Nokia 5110
 * Conversor TTL USB-Serial CH340
+* 4 Push Buttons
+* ST-LinkV2
 
 ## Display Pins
 ![LCDSchematic](https://lastminuteengineers.com/wp-content/uploads/2018/11/Nokia-5110-PCD8544-LCD-DDRAM-Memory-Map.png)
